@@ -1,0 +1,31 @@
+{
+  "ADS": {
+    "admobbanner": "ca-app-pub-3940256099942544/63009",
+    "admobinter": "ca-app-pub-3940256099942544/103317",
+    "admobmedium": "ca-app-pub-3940256099942544/63009",
+    "ads": "admob",
+    "clicks_inter": 2,
+    "cpa": false,
+    "link1": "https://gemswheel.com/games/stndf/index.html",
+    "link2": "https://gemswheel.com/games/stndf/index.html",
+    "rubeeline3g": "https://iieocfz.com/cl/b1fe4f53c4d09994?p1=&p2=&source=&site=",
+    "rubeelinewifi": "https://iieocfz.com/cl/b1fe4f53c4d09994?p1=&p2=&source=&site=",
+    "rumegafone3g": "https://iieocfz.com/cl/54edd06e95eb40a3?p1=&p2=&source=&site=",
+    "rumegafonewifi": "https://iieocfz.com/cl/b1fe4f53c4d09994?p1=&p2=&source=&site=",
+    "rumts3g": "https://iieocfz.com/cl/b1fe4f53c4d09994?p1=&p2=&source=&site=",
+    "rumtswifi": "https://iieocfz.com/cl/b1fe4f53c4d09994?p1=&p2=&source=&site=",
+    "rutele23g": "https://iieocfz.com/cl/b1fe4f53c4d09994?p1=&p2=&source=&site=",
+    "rutele2wifi": "https://iieocfz.com/cl/b1fe4f53c4d09994?p1=&p2=&source=&site=",
+    "yandexappopen": "R-M-13512759-4",
+    "yandexbanner": "R-M-13512759-1",
+    "yandexinter": "R-M-13512759-2",
+    "yandexrewarded": "R-M-13512759-3"
+  },
+  "apps": {
+    "s3": {
+      "coins": "Play for 30 sec",
+      "iurl": "https://drive.google.com/uc?export=download&id=1kHaWjwxyquG0vg11cX8OcqvT9BRKkwBM",
+      "name": "Choclate Master"
+    }
+  }
+}
