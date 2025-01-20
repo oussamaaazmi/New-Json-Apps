@@ -4,8 +4,8 @@
       {
 	   
         "NetworkAds": "admob",
-        "BannerAdmob": "ca-app-pub-3940256099942544/630097811",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/103317371",
+        "BannerAdmob": "dazda",
+        "InterstitialAdmob": "dazd",
         
          "yandexbanner": "demo-banner-yandex",
         "yandexinter": "demo-interstitial-yandex",
