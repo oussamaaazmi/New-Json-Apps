@@ -3,7 +3,7 @@
     "AdsController": 
       {
 	   
-        "NetworkAds": "yandex",
+        "NetworkAds": "admob",
         "BannerAdmob": "dazda",
         "InterstitialAdmob": "dazd",
         
