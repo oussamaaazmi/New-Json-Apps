@@ -1,36 +1,26 @@
 {
   "GuideData": {
-    "AdsController": 
-      {
-	   
-        "NetworkAds": "admob",
-        "BannerAdmob": "dzada",
-        "InterstitialAdmob": "dazdazzd",
-        
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
-
-
-        "UnityGameID": "4868185",
-        "UnityBanner": "Banner_Android",
-        "UnityInter": "Interstitial_Android",
-		
-        "ApplovinBanner": "cc413382fe775661",
-        "ApplovinInter" : "e3613ffe97a9a472",
-        
-        "hisavanaappid" : "ffffff",
-        "hisavanabaner" : "ffffff",
-        "hisavanamedium" : "fffffff",
-        "hisavanainter" : "fffffff",
-        
-        "joke" : false ,
-        "twoface" : true ,
-        
-        
-        "IroneAppkey" : "1108f84a5"
-		
-      }
-     }
+    "AdsController": {
+      "ApplovinBanner": "dzada",
+      "ApplovinInter": "dazdza",
+      "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+      "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+      "IroneAppkey": "1108f84a5",
+      "NetworkAds": "admob",
+      "UnityBanner": "Banner_Android",
+      "UnityGameID": "4868185",
+      "UnityInter": "Interstitial_Android",
+      "hisavanaappid": "ffffff",
+      "hisavanabaner": "ffffff",
+      "hisavanainter": "fffffff",
+      "hisavanamedium": "fffffff",
+      "joke": false,
+      "twoface": true,
+      "yandexappopen": "demo-native-app-yandex",
+      "yandexbanner": "demo-banner-yandex",
+      "yandexinter": "demo-interstitial-yandex",
+      "yandexrewarded": "demo-rewarded-yandex",
+      "aPackage_name": "com.Aphmau.Minecraft.MCPECsoloringPages"
+    }
+  }
 }
