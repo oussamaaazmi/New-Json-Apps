@@ -3,7 +3,7 @@
     "AdsController": 
       {
 	   
-        "NetworkAds": "yandex",
+        "NetworkAds": "admob",
         "BannerAdmob": "ca-app-pub-3940256099942544/630097811",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/103317371",
         
