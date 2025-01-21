@@ -1,0 +1,36 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+	   
+        "NetworkAds": "yandex",
+        "BannerAdmob": "ca-app-pub-3940256099942544/630097811",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/103317371",
+        
+         "yandexbanner": "demo-banner-yandex",
+        "yandexinter": "demo-interstitial-yandex",
+        "yandexappopen": "demo-native-app-yandex",
+        "yandexrewarded": "demo-rewarded-yandex",
+
+
+        "UnityGameID": "4868185",
+        "UnityBanner": "Banner_Android",
+        "UnityInter": "Interstitial_Android",
+		
+        "ApplovinBanner": "cc413382fe775661",
+        "ApplovinInter" : "e3613ffe97a9a472",
+        
+        "hisavanaappid" : "ffffff",
+        "hisavanabaner" : "ffffff",
+        "hisavanamedium" : "fffffff",
+        "hisavanainter" : "fffffff",
+        
+        "joke" : false ,
+        "twoface" : true ,
+        
+        
+        "IroneAppkey" : "1108f84a5"
+		
+      }
+     }
+}
