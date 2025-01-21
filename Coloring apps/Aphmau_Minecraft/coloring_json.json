@@ -5,9 +5,9 @@
 
 	"aPackage_name": "com.Aphmau.Minecraft.MCPECsoloringPages",
 
-        "NetworkAds": "yandex",
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NetworkAds": "admob",
+        "BannerAdmob": "fazfa",
+        "InterstitialAdmob": "gaga",
         
          "yandexbanner": "demo-banner-yandex",
         "yandexinter": "demo-interstitial-yandex",
