@@ -5,7 +5,7 @@
 
 	"aPackage_name": "com.Coloring.ChuckyTheKillerDoll.scarytoy",
 
-        "NetworkAds": "yandex",
+        "NetworkAds": "admob",
         "BannerAdmob": "dazd",
         "InterstitialAdmob": "map",
         
