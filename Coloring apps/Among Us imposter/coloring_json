@@ -3,14 +3,14 @@
     "AdsController": 
       {
 	   
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "dazda",
         "InterstitialAdmob": "dazd",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-13828749-1",
+        "yandexinter": "R-M-13828749-2",
+        "yandexappopen": "R-M-13828749-3",
+        "yandexrewarded": "R-M-13828749-4",
 
 
         "UnityGameID": "4868185",
