@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.Brawl.Stars.ColoringBook",
 
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "fzafaf",
         "InterstitialAdmob": "mfazf",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-13828838-1",
+        "yandexinter": "R-M-13828838-2",
+        "yandexappopen": "R-M-13828838-3",
+        "yandexrewarded": "R-M-13828838-4",
 
 
         "UnityGameID": "4868185",
