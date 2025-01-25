@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.CallOfDuty.COD.ColoringPages",
 
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "dazda",
         "InterstitialAdmob": "fazf",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-13828840-1",
+        "yandexinter": "R-M-13828840-2",
+        "yandexappopen": "R-M-13828840-3",
+        "yandexrewarded": "R-M-13828840-4",
 
 
         "UnityGameID": "4868185",
