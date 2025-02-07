@@ -1,0 +1,38 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+
+	"aPackage_name": "com.coloring.MyLittlePony.joyPony",
+
+        "NetworkAds": "admob",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        
+         "yandexbanner": "demo-banner-yandex",
+        "yandexinter": "demo-interstitial-yandex",
+        "yandexappopen": "demo-native-app-yandex",
+        "yandexrewarded": "demo-rewarded-yandex",
+
+
+        "UnityGameID": "4868185",
+        "UnityBanner": "Banner_Android",
+        "UnityInter": "Interstitial_Android",
+		
+        "ApplovinBanner": "cc413382fe775661",
+        "ApplovinInter" : "e3613ffe97a9a472",
+        
+        "hisavanaappid" : "ffffff",
+        "hisavanabaner" : "ffffff",
+        "hisavanamedium" : "fffffff",
+        "hisavanainter" : "fffffff",
+        
+        "joke" : false ,
+        "twoface" : false ,
+        
+        
+        "IroneAppkey" : "1108f84a5"
+		
+      }
+     }
+}
