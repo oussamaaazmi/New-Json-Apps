@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.coloring.pubg.mobile",
 
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "fzafa",
         "InterstitialAdmob": "mdazpd",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-14105182-1",
+        "yandexinter": "R-M-14105182-2",
+        "yandexappopen": "R-M-14105182-4",
+        "yandexrewarded": "R-M-14105182-3",
 
 
         "UnityGameID": "4868185",
