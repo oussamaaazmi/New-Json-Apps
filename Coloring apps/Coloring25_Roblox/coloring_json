@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.Roblox.Robux.Coloringg",
 
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "fzafa",
         "InterstitialAdmob": "mpfazf",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-14105183-1",
+        "yandexinter": "R-M-14105183-2",
+        "yandexappopen": "R-M-14105183-4",
+        "yandexrewarded": "R-M-14105183-3",
 
 
         "UnityGameID": "4868185",
