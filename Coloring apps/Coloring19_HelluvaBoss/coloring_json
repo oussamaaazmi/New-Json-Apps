@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.Coloring.Helluva.Boss",
 
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "fazfaf",
         "InterstitialAdmob": "nfazds",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-14105178-1",
+        "yandexinter": "R-M-14105178-2",
+        "yandexappopen": "R-M-14105178-4",
+        "yandexrewarded": "R-M-14105178-3",
 
 
         "UnityGameID": "4868185",
