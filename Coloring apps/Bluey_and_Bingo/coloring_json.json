@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.bluey.bingo.coloringBook",
 
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "fzafaf",
         "InterstitialAdmob": "fmaz",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-14062625-1",
+        "yandexinter": "R-M-14062625-2",
+        "yandexappopen": "R-M-14062625-4",
+        "yandexrewarded": "R-M-14062625-3",
 
 
         "UnityGameID": "4868185",
