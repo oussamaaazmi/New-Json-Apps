@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.ChibiDoll.GirlDressUp.Coloring",
 
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "mazd",
         "InterstitialAdmob": "nad",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-14062626-1",
+        "yandexinter": "R-M-14062626-2",
+        "yandexappopen": "R-M-14062626-4",
+        "yandexrewarded": "R-M-14062626-3",
 
 
         "UnityGameID": "4868185",
