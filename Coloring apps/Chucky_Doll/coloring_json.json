@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.Coloring.ChuckyTheKillerDoll.scarytoy",
 
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "dazd",
         "InterstitialAdmob": "map",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-14062627-1",
+        "yandexinter": "R-M-14062627-2",
+        "yandexappopen": "R-M-14062627-4",
+        "yandexrewarded": "R-M-14062627-3",
 
 
         "UnityGameID": "4868185",
