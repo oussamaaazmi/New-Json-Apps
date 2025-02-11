@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.Minecraft.MCPE.MCPEColoringBook",
 
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "fzafaz",
         "InterstitialAdmob": "pdamd",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-14105179-1",
+        "yandexinter": "R-M-14105179-2",
+        "yandexappopen": "R-M-14105179-4",
+        "yandexrewarded": "R-M-14105179-3",
 
 
         "UnityGameID": "4868185",
