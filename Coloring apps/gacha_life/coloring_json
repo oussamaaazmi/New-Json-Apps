@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.Coloring.Gachalife.gachaNebulagachaNox",
 
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "fazf",
         "InterstitialAdmob": "mfapf",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-14061490-1",
+        "yandexinter": "R-M-14061490-2",
+        "yandexappopen": "R-M-14061490-4",
+        "yandexrewarded": "R-M-14061490-3",
 
 
         "UnityGameID": "4868185",
