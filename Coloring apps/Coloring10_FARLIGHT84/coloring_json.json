@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.farlight84.asmr.coloring",
 
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "fazfza",
         "InterstitialAdmob": "fazfafax",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-14061374-1",
+        "yandexinter": "R-M-14061374-2",
+        "yandexappopen": "R-M-14061374-4",
+        "yandexrewarded": "R-M-14061374-3",
 
 
         "UnityGameID": "4868185",
