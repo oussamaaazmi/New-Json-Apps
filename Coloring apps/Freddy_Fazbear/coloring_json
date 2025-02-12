@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.Coloring.FiveNightsAtFreddys.FreddyFazbear",
 
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "fazfa",
         "InterstitialAdmob": "fazfa",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-14061447-1",
+        "yandexinter": "R-M-14061447-2",
+        "yandexappopen": "R-M-14061447-4",
+        "yandexrewarded": "R-M-14061447-3",
 
 
         "UnityGameID": "4868185",
