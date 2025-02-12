@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.spinlink.coinmaster.coloring",
 
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "fazfza",
         "InterstitialAdmob": "fazfa",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-14061346-1",
+        "yandexinter": "R-M-14061346-2",
+        "yandexappopen": "R-M-14061346-4",
+        "yandexrewarded": "R-M-14061346-3",
 
 
         "UnityGameID": "4868185",
