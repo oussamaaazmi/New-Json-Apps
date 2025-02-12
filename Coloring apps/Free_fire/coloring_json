@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.freefiremax.FF.ColoringBook",
 
-        "NetworkAds": "admob",
+        "NetworkAds": "yandex",
         "BannerAdmob": "fafa",
         "InterstitialAdmob": "fazfaf",
         
-         "yandexbanner": "demo-banner-yandex",
-        "yandexinter": "demo-interstitial-yandex",
-        "yandexappopen": "demo-native-app-yandex",
-        "yandexrewarded": "demo-rewarded-yandex",
+         "yandexbanner": "R-M-14061458-1",
+        "yandexinter": "R-M-14061458-2",
+        "yandexappopen": "R-M-14061458-4",
+        "yandexrewarded": "R-M-14061458-3",
 
 
         "UnityGameID": "4868185",
