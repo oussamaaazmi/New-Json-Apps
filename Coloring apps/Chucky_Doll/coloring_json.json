@@ -9,8 +9,8 @@
         "BannerAdmob": "dazd",
         "InterstitialAdmob": "map",
         
-         "yandexbanner": "R-M-14062627-1",
-        "yandexinter": "R-M-14062627-2",
+         "yandexbanner": "demo-banner-yandex",
+        "yandexinter": "demo-interstitial-yandex",
         "yandexappopen": "R-M-14062627-4",
         "yandexrewarded": "R-M-14062627-3",
 
