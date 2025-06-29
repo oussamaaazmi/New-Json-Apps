@@ -5,14 +5,14 @@
 
 	"aPackage_name": "com.SkibidiToilet.Coloring.Skibidi",
 
-        "NetworkAds": "yandex",
+        "NetworkAds": "admob",
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         
-         "yandexbanner": "ddazdx",
-        "yandexinter": "dedax",
-        "yandexappopen": "dema
-        "yandexrewarded": "demdazdex",
+         "yandexbanner": "demo-banner-yandex",
+        "yandexinter": "demo-interstitial-yandex",
+        "yandexappopen": "demo-native-app-yandex",
+        "yandexrewarded": "demo-rewarded-yandex",
 
 
         "UnityGameID": "4868185",
