@@ -3,7 +3,7 @@
     "AdsController": 
       {
 
-	"aPackage_name": "com.CODCallofDuty.Coloring.CallofDuty",
+	"aPackage_name": "com.SpiderMan.SpiderManColoring.SpidermanPaint",
 
         "NetworkAds": "yandex",
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
